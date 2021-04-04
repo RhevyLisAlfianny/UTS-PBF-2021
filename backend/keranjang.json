@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": " ",
+      "name": " ",
+      "amount": 0,
+      "price": 0,
+      "shortDesc": " ",
+      "description": " "
+    },
+    {
+      "name": "Samsung Galaxy S21 FE",
+      "stock": 10,
+      "price": 9999000,
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra.",
+      "id": "PdRiFMQ",
+      "amount": 1
+    }
+  ]
+}
